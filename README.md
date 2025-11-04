@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a passionate web developer with over 4 years experience, specializing in scalable and efficient solutions.
+I'm a passionate web developer with over 5 years experience, specializing in scalable and efficient solutions.
 
 * 🌍  I'm based in Baia Mare (Romania)
 * ✉️  You can contact me at [farcasadrian94@gmail.com](mailto:farcasadrian94@gmail.com)
-* 🧠  I'm learning Angular, React Native, Symfony
+* 🧠  I'm learning Angular, React Native, Symfony, Laravel
 
 ### Skills
 
