@@ -8,7 +8,7 @@ I'm a passionate web developer with over 5 years experience, specializing in sca
 
 * 🌍  I'm based in Baia Mare (Romania)
 * ✉️  You can contact me at [farcasadrian94@gmail.com](mailto:farcasadrian94@gmail.com)
-* 🧠  I'm learning Angular, React Native, Symfony, Laravel
+* 🧠  I'm learning Angular, Laravel
 
 ### Skills
 
