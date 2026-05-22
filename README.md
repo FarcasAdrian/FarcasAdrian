@@ -8,9 +8,8 @@ Web Developer with 5+ years of experience building backend-focused web applicati
 
 * 🌍  I'm based in Baia Mare (Romania)
 * 📫 Email: [farcasadrian94@gmail.com](mailto:farcasadrian94@gmail.com)
-* 🔗 LinkedIn: [https://www.linkedin.com/in/](https://www.linkedin.com/in/farcaș-adrian/)
-* 🧠  Currently exploring new technlogies (software and mobile) and improving my hard and soft skills.
-* 📫 Email: farcasadrian94@gmail.com
+* 🔗 LinkedIn: [https://www.linkedin.com/in/farcaș-adrian/](https://www.linkedin.com/in/farcaș-adrian/)
+* 🧠 Currently exploring new technologies in software and mobile development.
 
 ### Skills
 
