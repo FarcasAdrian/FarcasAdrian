@@ -1,14 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrian Farcaş
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Adrian Farcaş
 ====================================================================================================================================
 
-Web Developer
+Web Developer | PHP • MySQL • JavaScript
 -------------
 
-I'm a passionate web developer with over 5 years experience, specializing in scalable and efficient solutions.
+Web Developer with 5+ years of experience building backend-focused web applications with PHP and modern JavaScript tooling. I focus on performance, maintainability, and clean architecture.
 
 * 🌍  I'm based in Baia Mare (Romania)
-* ✉️  You can contact me at email [farcasadrian94@gmail.com](mailto:farcasadrian94@gmail.com) or LinkedIn: https://www.linkedin.com/in/farcaș-adrian/
-* 🧠  I'm learning Angular, Laravel
+* 📫 Email: [farcasadrian94@gmail.com](mailto:farcasadrian94@gmail.com)
+* 🔗 LinkedIn: [https://www.linkedin.com/in/](https://www.linkedin.com/in/farcaș-adrian/)
+* 🧠  Currently exploring new technlogies (software and mobile) and improving my hard and soft skills.
+* 📫 Email: farcasadrian94@gmail.com
 
 ### Skills
 
