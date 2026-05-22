@@ -7,7 +7,7 @@ Web Developer
 I'm a passionate web developer with over 5 years experience, specializing in scalable and efficient solutions.
 
 * 🌍  I'm based in Baia Mare (Romania)
-* ✉️  You can contact me at [farcasadrian94@gmail.com](mailto:farcasadrian94@gmail.com)
+* ✉️  You can contact me at email [farcasadrian94@gmail.com](mailto:farcasadrian94@gmail.com) or LinkedIn: https://www.linkedin.com/in/farcaș-adrian/
 * 🧠  I'm learning Angular, Laravel
 
 ### Skills
